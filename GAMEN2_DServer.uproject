@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{681F09B4-4B60-67F8-2F73-CCA24148155A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GAMEN2_DServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
